@@ -203,7 +203,7 @@ The Power BI dashboard consists of three interactive pages designed to provide i
 
 ### 1. Executive Overview
 ![Executive Overview](screenshots/Executive_Overview.png)
-
+ 
 ### 2. Product & Regional Analysis
 ![Product & Regional Analysis](screenshots/Product_&_Regional_Analysis.png)
 
