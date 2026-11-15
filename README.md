@@ -196,6 +196,20 @@ Through this project, I gained practical experience in:
 
 ---
 
+
+## 📊 Dashboard Preview
+
+The Power BI dashboard consists of three interactive pages designed to provide insights into sales performance, regional trends, product performance, and business opportunities.
+
+### 1. Executive Overview
+![Executive Overview](screenshots/Executive_Overview.png)
+
+### 2. Product & Regional Analysis
+![Product & Regional Analysis](screenshots/Product_&_Regional_Analysis.png)
+
+### 3. Business Insights & Recommendations
+![Business Insights & Recommendations](screenshots/Business_Insight.png)
+
 ## Conclusion
 
 Retail 360° Analytics demonstrates an end-to-end data analytics workflow, combining Python, MySQL, and Power BI to convert raw retail transaction data into actionable business insights.
